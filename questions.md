@@ -16,5 +16,5 @@
 16
 17
 18
-19
+19 Integracja z IDE
 20
