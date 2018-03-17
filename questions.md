@@ -2,7 +2,7 @@
 1
 2
 3
-4
+4 Kamil  -  czy lepiej uzywać add i commit czy commit -ma? 
 5
 6
 7 Lubicie Monty Pythona?
