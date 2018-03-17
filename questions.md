@@ -1,6 +1,6 @@
 13 + 1  Co lepsze React czy Vue?
 1
-2
+2	to jest moje pytanie, ha?
 3
 4
 5
