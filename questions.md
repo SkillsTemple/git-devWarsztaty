@@ -15,7 +15,7 @@
 14
 15
 16
-17
+17 Czy po merge'u dwóch commitów dostane nowy commit ID?
 18
 19
 20
