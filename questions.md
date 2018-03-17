@@ -16,5 +16,5 @@
 16
 17
 18
-19
+19 Czy da siê usun¹æ / odczepiæ repo od konta na GitHubie
 20
