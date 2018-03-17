@@ -1,7 +1,7 @@
 1
 2
 3
-4
+4. A jak nie mam pomysłu na pytanie?
 5
 6
 7
