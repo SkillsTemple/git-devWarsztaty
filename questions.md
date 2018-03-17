@@ -7,7 +7,7 @@
 7
 8
 9
-10 nie mam pytań.. git jest git.. jak się rozumie.. ale i tak można coś zepsuć :)
+10 nie mam pytań.. git jest git.. jak się rozumie.. ale i tak można coś zepsuć :) 
 11
 12
 13
