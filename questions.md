@@ -1,5 +1,5 @@
 1
-2
+2	to jest moje pytanie, ha?
 3
 4
 5
