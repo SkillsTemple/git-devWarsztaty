@@ -17,6 +17,6 @@
 16
 17 Czy po merge'u dwóch commitów dostane nowy commit ID?
 18
-19
+19 Integracja z IDE
 20
 
