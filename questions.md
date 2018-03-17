@@ -1,4 +1,4 @@
-1
+1. Czy używać `git pull` czy `git pull --rebase`? Michał Ś.
 2
 3
 4
