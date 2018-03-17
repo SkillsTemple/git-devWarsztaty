@@ -1,20 +1,22 @@
+13 + 1  Co lepsze React czy Vue?
 1
 2
 3
 4
 5
 6
-7
+7 Lubicie Monty Pythona?
 8
 9
 10
 11
 12
-13
+ 13bez pytań
 14
 15
-16  null
-17
+16 null
+17 Czy po merge'u dwóch commitów dostane nowy commit ID?
 18
 19
 20
+
