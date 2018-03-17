@@ -8,7 +8,7 @@
 7 Lubicie Monty Pythona?
 8
 9
-10
+10. Najbardziej użyteczna i nieoczywista funkcjonalność GIT-a, z której korzystacie w pracy to?
 11
 12
  13bez pytań
