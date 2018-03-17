@@ -7,7 +7,7 @@
 6
 7 Lubicie Monty Pythona?
 8
-9
+9 czy to jest pytanie?
 10
 11
 12
