@@ -8,7 +8,7 @@
 7 Lubicie Monty Pythona?
 8
 9
-10
+10 nie mam pytań.. git jest git.. jak się rozumie.. ale i tak można coś zepsuć :) 
 11
 12
  13bez pytań
